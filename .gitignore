@@ -1,0 +1,5 @@
+node_modules
+raudona/zalia.html
+!red/*.html
+.DS_store
+.vscode
