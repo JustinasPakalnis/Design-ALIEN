@@ -1,5 +1,5 @@
 
-# Labirintas
+# ATEIVISSSSSSSSSSSSS
 
 _website design project_
 
@@ -20,7 +20,7 @@ Design: [Design-ALIEN](https://dribbble.com/shots/2815937-404-page)
 -   inline CSS
 -   SVG images
 -   **NO** responsive design
--   Favicon
+
 
 ## 🧰 Getting Started
 
