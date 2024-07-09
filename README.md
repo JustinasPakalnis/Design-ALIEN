@@ -9,7 +9,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://justinaspakalnis.github.io/Design-ALIEN/
+Site published at: https://justinaspakalnis.github.io/design-alien/
 
 Design: [Design-ALIEN](https://dribbble.com/shots/2815937-404-page)
 
