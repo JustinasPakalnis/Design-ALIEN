@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/JustinasPakalnis/Design-ALIEN
 
-Design: [Labirintas](https://dribbble.com/shots/2815937-404-page)
+Design: [Design-ALIEN](https://dribbble.com/shots/2815937-404-page)
 
 ## 🎯 Project features/goals
 
